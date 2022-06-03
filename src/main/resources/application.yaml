@@ -1,0 +1,8 @@
+server:
+  port: 8189
+  servlet:
+    context-path: /exchange-rates-service-manager
+properties:
+  giphy-api-url: https://api.giphy.com/v1/gifs
+  open-exchange-rates-api-url: https://openexchangerates.org/api
+  compare-rate: USD
